@@ -8,6 +8,9 @@ public class helloWord {
         // doing awesome work 3 !
         // Awesome work 3 is done and rady to be comitted
           // and ready to be pushed to remote repository
+        // are you ready ?
+        // Today is awesome
+
 
     }
 }
